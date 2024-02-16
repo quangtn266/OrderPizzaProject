@@ -21,7 +21,7 @@ mvn clean package
 
 4. Running flink .jar
 ```
-./bin/flink run target/original-orderpizza-flink-1.0-SNAPSHOT.jar
+./bin/flink run target/orderpizza-flink-1.0-SNAPSHOT.jar
 ```
 
 5. Check the output
