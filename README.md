@@ -33,3 +33,8 @@ tail log/flink-quangtn-*.out
 ```
 ./bin/stop-cluster.sh
 ```
+
+## The result.
+
+![Screen Shot 2024-02-16 at 15 25 00](https://github.com/quangtn266/OrderPizzaProject/assets/50879191/01b47249-394d-47dc-9d54-2aba8668db4d)
+
